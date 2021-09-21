@@ -13,4 +13,6 @@ using Mvc.Models;
         }
 
         public DbSet<Mvc.Models.Movie> Movie { get; set; }
+
+        public DbSet<Mvc.Models.Student> Student { get; set; }
     }
