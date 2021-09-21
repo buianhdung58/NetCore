@@ -172,3 +172,4 @@ D:\MVC\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
 D:\MVC\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 D:\MVC\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 D:\MVC\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\MVC\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
