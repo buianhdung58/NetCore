@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Mvc.Models;
+using MVC.Models;
+using MVC.Data;
+
+namespace MVC.Data{
 
     public class ApplicationContext : DbContext
     {
@@ -16,3 +19,4 @@ using Mvc.Models;
 
         public DbSet<Mvc.Models.Student> Student { get; set; }
     }
+}
