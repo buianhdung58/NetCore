@@ -12,7 +12,6 @@ namespace Mvc.Models
         [Required]
         [Column(TypeName="nvarchar(50)")]
         public string Title { get; set; }
-        [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
         [RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]
